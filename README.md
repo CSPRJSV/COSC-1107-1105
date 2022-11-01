@@ -1,5 +1,5 @@
 # COSC-1107-1105 专业辅导 
-
+# VX: csprojhelp 备注: github
 Consider the grammar derivations below.
 
 S ⇒ 00S1 ⇒ 0000S11 ⇒ 00000S111 ⇒ 00000#A#111 ⇒ 00000#B#111 ⇒ 00000#C#111 ⇒ 00000#cDd#111 ⇒ 00000#c2d#111
